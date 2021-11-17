@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174682269836",
+    "project_id": "myuserapp-e3405",
+    "storage_bucket": "myuserapp-e3405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174682269836:android:775d00698333c4c0c433a9",
+        "android_client_info": {
+          "package_name": "com.example.cornnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174682269836-79tlv9dko5t1tb59jq69rnnlm1dufk9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTmp7uEDzqOEk0HEOlpegHz70jNQBWrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174682269836-79tlv9dko5t1tb59jq69rnnlm1dufk9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
